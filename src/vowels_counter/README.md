@@ -40,6 +40,4 @@ Okay, I'll exit now
 This project is licensed under the [MIT License](/LICENSE).
 
 ## Author
-ZidaneMZ
-
-Feel free to modify and customize this README according to your preferences and needs. You can add more sections such as "Contributing," "Acknowledgments," or any other relevant information about your project.
+[zdnemz](https://github.com/zdnemz)
